@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/zjx/include/root/include",
+                "/home/zjx/reducedTree",
+                "/home/zjx/include",
+                "/home/zjx/include/common_files",
+                "/home/zjx/work/machine_learning/test/ml/config"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-7",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
